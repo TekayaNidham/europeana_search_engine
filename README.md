@@ -1,8 +1,8 @@
 # Europeana search engine for images and metadata
 This is a simple search engine for Europeana API to search for images and metadata. The search engine is implemented using Python.
 
-<div style="display: flex; justify-content: center;">
-    <img src="ressources/vacu.png" alt="Image 2" style="width: 200px; height: 200px;">
+<div style="text-align: center;">
+    <img src="ressources/europeana.png" alt="Image 2" style="width: 200px; height: 200px;">
 </div>
 
 <!--
